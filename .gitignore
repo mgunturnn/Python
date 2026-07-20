@@ -1,0 +1,14 @@
+# 1. Abaikan SEMUA file dan folder terlebih dahulu
+/*
+
+# 2. KECUALIKAN file .gitignore dan folder yang ingin kita PUSH
+!/.gitignore
+!/ETL Pipeline/
+!/ETL Pipeline/**
+!/Web Scraping/
+!/Web Scraping/**
+
+# 3. Abaikan folder virtual environment dan file sampah sistem
+.venv/
+__pycache__/
+*.csv
