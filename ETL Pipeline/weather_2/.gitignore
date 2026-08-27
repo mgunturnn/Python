@@ -1,0 +1,5 @@
+weather-pipeline-506703-4b66bd763a7c.json
+myvenv/
+*.db
+logs/
+airflow-webserver.pid
