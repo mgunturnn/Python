@@ -1,4 +1,4 @@
-1. Project Objective
+1. Project Objective: 
 Proyek ini bertujuan untuk membangun infrastruktur pipa data (ETL) otomatis yang mengekstraksi data prakiraan cuaca harian dari sumber publik, mengubahnya menjadi format tabular yang bersih, dan memuatnya ke dalam gudang data berbasis cloud untuk kebutuhan analisis dan visualisasi pemangku kepentingan.
 3. Architecture & Data Flow
    - Data Source: Open-Meteo API (REST API).
@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk membangun infrastruktur pipa data (ETL) otomatis yang
    - Data Processing: Python
    - Data Warehouse: Google BigQuery
    - Business Intelligence: Google Looker Studio.
-5. Data Schema
+5. Data Schema: 
    Data yang dimuat ke dalam tabel BigQuery memiliki struktur berikut:
    - date (DATE): Tanggal prakiraan cuaca.
    - max_temp (FLOAT): Suhu maksimum harian dalam Celcius.
