@@ -1,5 +1,5 @@
 1. Project Objective
-   Proyek ini bertujuan untuk membangun infrastruktur pipa data (ETL) otomatis yang mengekstraksi data prakiraan cuaca harian dari sumber publik, mengubahnya menjadi format tabular yang bersih, dan memuatnya ke dalam gudang data berbasis cloud untuk kebutuhan analisis dan visualisasi pemangku kepentingan.
+Proyek ini bertujuan untuk membangun infrastruktur pipa data (ETL) otomatis yang mengekstraksi data prakiraan cuaca harian dari sumber publik, mengubahnya menjadi format tabular yang bersih, dan memuatnya ke dalam gudang data berbasis cloud untuk kebutuhan analisis dan visualisasi pemangku kepentingan.
 3. Architecture & Data Flow
    - Data Source: Open-Meteo API (REST API).
    - Data Orchestration & Scheduling: Apache Airflow
