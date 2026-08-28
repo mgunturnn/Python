@@ -6,6 +6,7 @@ Proyek ini bertujuan untuk membangun infrastruktur pipa data (ETL) otomatis yang
 ## 🏗️ 2. Architecture & Data Flow
 *   **Data Source:** Open-Meteo API (REST API) 🌐
 *   **Orchestration:** Apache Airflow ⏱️
+*   **Containerization:** Docker 🐋
 *   **Data Processing:** Python
 *   **Data Warehouse:** Google BigQuery (GCP) ☁️
 *   **Business Intelligence:** Google Looker Studio 📊
